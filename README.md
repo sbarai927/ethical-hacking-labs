@@ -19,7 +19,7 @@ A collection of practical lab exercises completed during an IT Security course, 
 
 ## Objective
 
-This repository documents a series of **Ethical Hacking labs in the framework of Cisco certification** completed as part of IT Security course (WS 2024), lectured by Prof. Heiko Knopse, Technische Hochschule Köln.  
+This repository documents a series of **Ethical Hacking labs in the framework of Cisco Networking Academy provided Ethical Hacker course** completed as part of IT Security course (WS 2024), lectured by Prof. Heiko Knopse, Technische Hochschule Köln.  
 Each lab folder contains:
 
 - Step-by-step **Markdown guides** for individual tasks
