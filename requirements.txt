@@ -1,0 +1,33 @@
+# ===== Core HTTP, Web, and Parsing =====
+requests
+urllib3
+beautifulsoup4
+argparse
+colorama
+tabulate
+
+# ===== Networking & Packet Analysis (Lab 1) =====
+scapy
+pyshark
+
+# ===== Data Handling & File Formats =====
+pandas
+openpyxl
+
+# ===== Cryptography & Certificates (Optional Lab 3 TLS) =====
+cryptography
+pyOpenSSL
+
+# ===== Web Testing & Automation =====
+selenium
+mechanize
+
+# ===== Password & Hash Utilities =====
+passlib
+hashlib  # stdlib, but kept for clarity
+z85      # for Juice Shop coupon decoding
+PyJWT    # for decoding JWTs
+
+# ===== Reporting & Markdown =====
+markdown
+simplejson
